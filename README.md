@@ -13,4 +13,4 @@ The localStorage was used to store whatever food you decide to add to favorites 
 
 The context API was used to pass majority of the functionalities down to each omponent ensuring simplicity in the code.
 
-The blend of good UI and easy-to-use functionality of this applicationwith clean, simple and bug-free code makes this a very resourceful and beautiful application😍.
+The blend of good UI and easy-to-use functionality of this application with clean, simple and bug-free code makes this a very resourceful and beautiful application😍.
