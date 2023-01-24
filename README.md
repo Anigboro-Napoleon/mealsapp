@@ -4,7 +4,8 @@ How great would it be if whenever you want to prepare/cook a delicacy, you just 
 
 In this app, we render popular western meals and provide instructions by which you can follow to prepare a nice delicacy. These meals were gotten from an external API (https://www.themealdb.com/api/json/v1/1/search.php?s=).
 
-This app also gives you the function to search on the go for whatever meal you are looking for or you probably want to get funky and just work with a random meal. There's the option for you to select random meals.
+This app also gives you the function to search on the go for whatever meal you are looking for.
+Or you probably want to get funky and just work with a random meal? There's the option for you to select random meals.
 
 # You also get the option to add/remove foods to/from the favorites. SUPER, isn't it?
 
